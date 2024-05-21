@@ -1,10 +1,10 @@
-Meu nome é Emily Kaori
+**Meu nome é Emily Kaori**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Você pode entrar em contato comigo 📫
+**Você pode entrar em contato comigo 📫**
 
 emilykaori2007@gmail.com
 
